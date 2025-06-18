@@ -13,3 +13,30 @@ $arr4 = [
     "fruits" => ["apple", "banana", "cherry"],
     "vegetables" => ["carrot", "broccoli", "spinach"]
 ];
+
+//Real world example
+$posts = [
+    [
+        "title" => "First Post",
+        "content" => "This is the content of the first post.",
+        "author" => "Alice",
+        "comments" =>
+        [
+            "author" => "Dave",
+            "content" => "Great post!"
+        ]
+
+    ],
+    [
+        "title" => "Second Post",
+        "content" => "This is the content of the second post.",
+        "author" => "Bob"
+    ],
+    [
+        "title" => "Third Post",
+        "content" => "This is the content of the third post.",
+        "author" => "Charlie"
+    ]
+
+
+];

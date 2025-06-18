@@ -11,3 +11,8 @@ func main(){
 	arr[4] = 50   // Assign value to the fourth element
 	fmt.Println("Array elements:", arr) // Print the array elements
 }
+/*
+array in golang is a collection of elements of the same type, stored in contiguous memory locations.
+Arrays in Go have a fixed size, which is defined at the time of declaration.
+Once an array is declared, its size cannot be changed.
+*/

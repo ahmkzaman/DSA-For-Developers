@@ -33,16 +33,16 @@
 
 2. **Run code samples:**
 
-   Choose your preferred language folder and explore the examples.
+   Navigate to a topic folder, choose your preferred programming language, and dive into the examples.
 
-## 🤝 Contribute
+## 🤝 Contribution
 
 Open a pull request with your own developer-useful DSA example, use case, or explanation.
 
 ## ❓ Where to Get Help
 
 - Open an issue
-- You can also email me at: kzmn22@gmail.com
+- For any inquiries, suggestions or contributions, please don’t hesitate to contact me at kzmn22@gmail.com
 
 ## 📄 License
 
